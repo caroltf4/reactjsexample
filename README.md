@@ -1,5 +1,5 @@
 # To install it:
-1) npm install
+1) execute npm install
 2) open localhost:3000
 
 # Uses:
